@@ -8,7 +8,7 @@ const mockGames = [
       "https://media.rawg.io/media/games/123/f1-24.jpg",
     platforms: [
       "PC",
-      "PlayStation 5",
+      "PlayStation 5 Pro",
       "Xbox Series X"
     ],
     genres: [
@@ -19,7 +19,7 @@ const mockGames = [
 
   {
     id: 2,
-    name: "Forza Horizon 5",
+    name: "Forza Horizon 6",
     released: "2021-11-09",
     rating: 4.5,
     image:
@@ -54,7 +54,7 @@ const mockGames = [
 
   {
     id: 4,
-    name: "Elden Ring",
+    name: "Elden Ring II",
     released: "2022-02-25",
     rating: 4.6,
     image:
@@ -90,7 +90,7 @@ const mockGames = [
 
   {
     id: 6,
-    name: "The Witcher 3: Wild Hunt",
+    name: "The Witcher 3: Wild Hunt GOTY",
     released: "2015-05-18",
     rating: 4.7,
     image:
@@ -109,7 +109,7 @@ const mockGames = [
 
   {
     id: 7,
-    name: "Grand Theft Auto V",
+    name: "Grand Theft Auto V Delux Edition",
     released: "2013-09-17",
     rating: 4.5,
     image:
@@ -145,7 +145,7 @@ const mockGames = [
 
   {
     id: 9,
-    name: "Marvel's Spider-Man 2",
+    name: "Marvel's Spider-Man 2 Delux Edition",
     released: "2023-10-20",
     rating: 4.4,
     image:
